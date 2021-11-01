@@ -10,9 +10,19 @@
     text-align: center;
 }
 
+.encabezado:hover{
+    background-color: rgb(155,100, 70, 0.7);
+}
+
 
 .contenido{
     color: black;
+    text-align: justify;
+}
+
+.contenido p{
+    margin-left: 10%;
+    width: 80%;
 }
 
 body{
