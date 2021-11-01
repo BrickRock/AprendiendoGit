@@ -1,0 +1,20 @@
+.articulo{
+
+    background-color: aquamarine;
+}
+
+.encabezado{
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 20px 10px;
+    text-align: center;
+}
+
+
+.contenido{
+    color: black;
+}
+
+body{
+    color: white;
+}
