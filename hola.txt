@@ -15,3 +15,6 @@ cambio 2 de rama main
 cambio diminuto en este archivo para usar los stash
 
 si llegastes hasta aqui eres guapo 
+
+
+mas cosas xD
